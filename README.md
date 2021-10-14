@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/KV81xXM/Vimdhayak-bot.jpg" alt="Xeon" width="170" />
 
-## Vimdhayak Bot
+## Depro Bot
 
 </div>
 
